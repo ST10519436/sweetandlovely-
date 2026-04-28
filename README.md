@@ -52,3 +52,8 @@ This is a simple static site. If you'd like to contribute improvements, feel fre
 ## Contact
 
 For more information, visit our [contact page](contact.html) or call +27 71 793 9711.
+
+References
+Sweet and Lovely Pizza, “Sweet and Lovely Pizza Store,” Uber Eats. [Online]. Available: https://www.ubereats.com/store-browse-uuid/24501827-e966-51ae-937a-59cbb14cdf70. [Accessed: Apr. 28, 2026].
+
+OpenAI, “AI Image Generation Tool,” ChatGPT. [Online]. Available: https://chat.openai.com/. [Accessed: Apr. 28, 2026].
