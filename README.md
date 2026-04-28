@@ -40,8 +40,6 @@ Since this is a static website, you can view it by opening the `index.html` file
 ## Technologies Used
 
 - HTML5
-- CSS3
-- JavaScript
 
 ## Contributing
 
