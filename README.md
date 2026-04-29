@@ -1,59 +1,62 @@
-# Sweet and Lovely Pizza
+# 🍕 Sweet & Lovely Pizza Website
 
-A static website for Sweet and Lovely Pizza, a local food business in Khayelitsha, Cape Town, South Africa. We specialize in delicious, high-quality pizzas and hearty meals made with care.
+## Student Information
+Name: Ayema Ngxabazi  
+Student Number: ST10519436  
+Module: WEDE5010 
+Lecturer: Mr Motau  
+Year: 2026  
 
-## Description
+---
 
-Sweet and Lovely Pizza offers fresh, township-style pizza baked in a wood-fired oven, along with combo meals like ribs and chips, beef and chips, and russians with chips. We also provide cold drinks and beer (availability may vary).
+## Project Overview
+This project is a multi-page website created for Sweet & Lovely Pizza. The website was developed using HTML and is designed to display menu items, prices, and business information in a clear and organised way.
 
-Our mission is to provide fresh, tasty, and affordable meals that bring people together, using quality ingredients and genuine hospitality.
+---
 
-## Features
+## Website Goals
+- To create a simple and user-friendly website  
+- To display pizza menu items and prices   
 
-- **Home Page**: Introduction to the business, safety measures, and quick links to order.
-- **About Us**: Learn about our mission, what we offer, and why customers choose us.
-- **Menu**: Browse our selection of pizzas (Meat Lovers, Sweet and Lovely, Greek, Vegetarian, Hawaiian, Chicken Mayo, etc.) and extra toppings.
-- **Extras**: Combo meals and additional items.
-- **Checkout**: Process your order.
-- **Contact**: Find our location, opening hours, and contact information.
+---
 
-## How to View the Website
+## Pages Included
+- Home (index.html)  
+- About (about.html)  
+- Menu (menu.html)  
+- Extras (extras.html)  
+- Checkout (checkout.html)  
+- Contact (contact.html)  
 
-Since this is a static website, you can view it by opening the `index.html` file in any modern web browser.
+---
 
-1. Clone or download the repository.
-2. Navigate to the project directory.
-3. Open `index.html` in your browser.
+## Project Structure
+sweet-and-lovely-pizza/
+- index.html  
+- about.html  
+- menu.html  
+- extras.html  
+- checkout.html  
+- contact.html  
+- README.md  
+- images/  
 
-## Ordering
+---
 
-- **Phone**: Call +27 71 793 9711 to place your order.
-- **Pickup**: Available at our location in Khayelitsha.
-- **Delivery**: Trusted local delivery where available (confirm when calling).
+## How to Run the Project
+Open the index.html file in a web browser to view the website.
 
-## Safety Measures
+---
 
-- Verified phone number for orders and enquiries.
-- Clear, safe pickup zone.
-- Trusted local delivery options.
+## References
+## References
 
-## Technologies Used
+Uber Eats. (2026). Sweet and Lovely Pizza menu. Available at: https://www.ubereats.com/store-browse-uuid/24501827-e966-51ae-937a-59cbb14cdf70 (Accessed: 19 April 2026).
 
-- HTML5
 
-## Contributing
+OpenAI. (2026). AI-generated images used for Sweet and Lovely Pizza website. Available at: https://chat.openai.com (Accessed: 27 April 2026).
 
-This is a simple static site. If you'd like to contribute improvements, feel free to fork the repository and submit a pull request.
+---
 
-## License
-
-[Add license information if applicable]
-
-## Contact
-
-For more information, visit our [contact page](contact.html) or call +27 71 793 9711.
-
-References
-Sweet and Lovely Pizza, “Sweet and Lovely Pizza Store,” Uber Eats. [Online]. Available: https://www.ubereats.com/store-browse-uuid/24501827-e966-51ae-937a-59cbb14cdf70. [Accessed: Apr. 28, 2026].
-
-OpenAI, “AI Image Generation Tool,” ChatGPT. [Online]. Available: https://chat.openai.com/. [Accessed: Apr. 28, 2026].
+## Declaration
+This project is my own work. External sources were used only for images and inspiration.
